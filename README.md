@@ -1,5 +1,5 @@
 
-![WhiteTowerGames's Profile Banner](https://github.com/WhiteTowerGames.png)
+![WhiteTowerGames's Profile Banner](https://github.com/ChristosMaragkos.png)
 
 # WhiteTowerGames
 
