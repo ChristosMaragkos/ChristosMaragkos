@@ -1,7 +1,7 @@
 
-![WhiteTowerGames's Profile Banner](https://github.com/ChristosMaragkos.png)
+![Christos Maragkos's Profile Banner](https://github.com/ChristosMaragkos.png)
 
-# WhiteTowerGames
+# Christos Maragkos
 
 Hi there! I’m an indie game developer passionate about building tools and games that help others create and play. With a solid foundation in object-oriented programming and a love for C# and Java, I spend my free time crafting open source tools to streamline the dev process for everyone.
 
