@@ -1,40 +1,38 @@
+![Profile Banner](https://github.com/ChristosMaragkos.png)
 
-![Christos Maragkos's Profile Banner](https://github.com/ChristosMaragkos.png)
-
-# Christos Maragkos
-
-Hi there! I’m an indie game developer passionate about building tools and games that help others create and play. With a solid foundation in object-oriented programming and a love for C# and Java, I spend my free time crafting open source tools to streamline the dev process for everyone.
-
-My dream? To found my own indie game studio!
+# Hi, I'm Christos Maragkos 👋
 
 ---
 
-## 🚀 Featured Projects
+## 👤 About Me
 
-- 🎵 **[Oggify](https://github.com/WhiteTowerGames/Oggify)**  
-  Audio utility for batch converting and managing game-ready OGG files with ease.
-
-- 🧵 **[SpriteStitcher](https://github.com/WhiteTowerGames/SpriteStitcher)**  
-  A tool for effortlessly stitching and slicing spritesheets for your game projects.
-
-- 🗿 **[Pedestals](https://github.com/WhiteTowerGames/pedestals-121)**  
-  Modular, open source pedestal mod for Minecraft—my passion project.
+I'm currently studying Economics at the University of Macedonia in Thessaloniki, Greece.  
+But my real passion? Building games and software!  
+Whether I'm experimenting with new ideas or refining tools for other developers, I love turning creativity and code into something people can use and enjoy.
 
 ---
 
-## 🎯 What Drives Me
+## 🌟 Featured Projects
 
-- Building open source tools to streamline development for indie devs.
-- Fostering a welcoming community where contributors can learn and grow.
-- Striving to see my projects flourish with the help of passionate collaborators.
-
----
-
-## 🕹️ Find My Games & Other Projects
-
-- [WhiteTowerGames on itch.io](https://white-tower-games.itch.io/)
-- [WhiteTowerGames on CurseForge](https://www.curseforge.com/members/whitetowergames/projects)
+- [**Oggify**](https://github.com/WhiteTowerGames/Oggify): Batch audio converter for game-ready OGG files.
+- [**SpriteStitcher**](https://github.com/WhiteTowerGames/SpriteStitcher): Tool for creating sprite atlases.
+- [**Pedestals**](https://github.com/WhiteTowerGames/pedestals-121): Modular Minecraft pedestal mod.
 
 ---
 
-*If you love making, tinkering, or playing—let’s connect and build something awesome together!*
+## 🎲 More
+
+- [itch.io: WhiteTowerGames](https://white-tower-games.itch.io/)
+- [CurseForge: WhiteTowerGames](https://www.curseforge.com/members/whitetowergames/projects)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChristosMaragkos&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristosMaragkos&layout=compact&theme=radical)
+
+---
+
+*Let’s connect and build something awesome!*
