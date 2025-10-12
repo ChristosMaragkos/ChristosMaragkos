@@ -21,7 +21,7 @@ Whether I'm experimenting with new ideas or refining tools for other developers,
 
 - [**Oggify**](https://github.com/WhiteTowerGames/Oggify): Batch audio converter for game-ready OGG files.
 - [**SpriteStitcher**](https://github.com/WhiteTowerGames/SpriteStitcher): Tool for creating sprite atlases.
-- [**Pedestals**](https://github.com/WhiteTowerGames/pedestals-121): Pedestal mod for Minecraft - my passion project. >6000 downloads on CurseForge!
+- [**Pedestals**](https://github.com/WhiteTowerGames/pedestals-121): Pedestal mod for Minecraft - my passion project. >18.000 downloads on CurseForge!
 
 ---
 
