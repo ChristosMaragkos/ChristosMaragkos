@@ -1,8 +1,6 @@
 ![Profile Banner](https://github.com/ChristosMaragkos.png)
 
-# Hi, I'm Christos Maragkos 👋
-
----
+# Hi, I'm Christos Maragkos 
 
 ## 👤 About Me
 
