@@ -13,9 +13,3 @@ Whether I'm experimenting with new ideas or refining tools for other developers,
 ## More by me
 - [itch.io: WhiteTowerGames](https://white-tower-games.itch.io/)
 - [CurseForge: WhiteTowerGames](https://www.curseforge.com/members/whitetowergames/projects)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChristosMaragkos&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristosMaragkos&layout=compact&theme=radical)
