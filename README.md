@@ -6,5 +6,3 @@
 ## More by me
 - [itch.io: WhiteTowerGames](https://white-tower-games.itch.io/)
 - [CurseForge: WhiteTowerGames](https://www.curseforge.com/members/whitetowergames/projects)
-
-[![Christos' GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristosMaragkos)](https://github.com/anuraghazra/github-readme-stats)
