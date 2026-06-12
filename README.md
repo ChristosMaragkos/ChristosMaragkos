@@ -7,3 +7,7 @@ Economics student by day, software engineer also by day because I'm ignoring my 
 ## More by me
 - [itch.io: WhiteTowerGames](https://white-tower-games.itch.io/)
 - [CurseForge: WhiteTowerGames](https://www.curseforge.com/members/whitetowergames/projects)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ChristosMaragkos&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=ChristosMaragkos&show_icons=true&include_all_commits=true&theme=tokyonight)
+
+[![Language Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ChristosMaragkos&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=ChristosMaragkos&langs_count=4&theme=tokyonight)
